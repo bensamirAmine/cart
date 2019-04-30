@@ -1,0 +1,22 @@
+.card{
+	width: 20%;
+	float: left;
+	margin:6% ;
+
+}
+
+.content-container{
+	width: 100%;
+}
+.footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+.cart-heder{
+	margin-top: 20px;
+}
